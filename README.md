@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/mukaddes-demirtaş" target="blank">
-  <img align="center" src="https://github.com/user-attachments/assets/6c6786bc-e906-4336-97da-d46388597325" height="100" width="100" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/6c6786bc-e906-4336-97da-d46388597325" height="100" width="100" style="vertical-align: middle;">
 </a>
 <a href="https://www.hackerrank.com/profile/m_ddemirtas" target="blank">
   <img src="https://github.com/user-attachments/assets/a1326838-e18c-46a1-ac15-a48ac7f2a6f9" width="100" height="100" style="vertical-align: middle;">
