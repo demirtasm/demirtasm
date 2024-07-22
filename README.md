@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.localveri.com.tr%2Fblog%2Flinkedinde-reklam-kampanyalari-nelerdir%2F&psig=AOvVaw1k_jfpYsCMKxThXmgwJpEC&ust=1721744996791000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiR24vuuocDFQAAAAAdAAAAABAJ" width="150" height="150">
+<a href="https://www.linkedin.com/in/mukaddes-demirtaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedeminulusal" height="30" width="40" /></a>
 
-https://www.linkedin.com/in/mukaddes-demirtaş
+
+
 
 
 
