@@ -23,5 +23,5 @@ https://www.linkedin.com/in/mukaddes-demirtaş
 
 <img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg"  width="150" height="150">
 
-My Hackerrank profile: https://www.hackerrank.com/maddesdmrts?hr_r=1
+My Hackerrank profile: [https://www.hackerrank.com/maddesdmrts?hr_r=1](https://www.hackerrank.com/profile/m_ddemirtas)
 
