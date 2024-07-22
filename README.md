@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h3 align="left">Connect me:</h3>
+<p>
 <a href="https://www.linkedin.com/in/mukaddes-demirtaş" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedeminulusal" height="30" width="40" />
 </a>
 
 My Hackerrank profile: 
 [<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg"  width="150" height="150">](https://www.hackerrank.com/profile/m_ddemirtas)
+</p>
