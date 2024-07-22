@@ -32,6 +32,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" />
 </a>
 <a href="https://www.hackerrank.com/profile/m_ddemirtas" target="blank">
-  <img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="150" height="150">
+  <img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="80" height="80">
 </a>
 </p>
