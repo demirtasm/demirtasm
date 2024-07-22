@@ -34,5 +34,9 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/profile/m_ddemirtas" target="blank">
   <img src="https://github.com/user-attachments/assets/a1326838-e18c-46a1-ac15-a48ac7f2a6f9" width="100" height="100" style="vertical-align: middle;">
 </a>
+<a href="https://maddesdmrts.medium.com/" target="blank">
+  <img src="https://github.com/user-attachments/assets/0c348ca2-6a9a-49e3-81e4-520da4c1408d" width="100" height="100" style="vertical-align: middle;">
+</a>
+
 </p>
 
