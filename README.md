@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 </a>
 
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demirtasm&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats
 
