@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demirtasm&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+[![demirtasm's GitHub stats](https://github-readme-stats.vercel.app/api?username=demirtasm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
