@@ -22,7 +22,7 @@
   <img src="https://github.com/user-attachments/assets/0c348ca2-6a9a-49e3-81e4-520da4c1408d" width="100" height="100" style="vertical-align: middle;">
 </a>
 </p>
-### 🌱 Currently Learning
+🌱 Currently Learning
 
 - Clean Architecture Best Practices
 - CI/CD workflows for Android
